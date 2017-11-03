@@ -7,7 +7,7 @@ A [multilayer perceptron (MLP)](https://en.wikipedia.org/wiki/Multilayer_percept
 
 <p align="center">
 Example architecture of a MLP  
-Image from [https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.Rmd](https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.Rmd)
+Image from [https://github.com/ledell/sldm4-h2o/blob/master/sldm4-deeplearning-h2o.Rmd]
 </p>
 
 </br>
