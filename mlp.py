@@ -198,7 +198,7 @@ class Mlp():
         '''
         unrolled_array = np.array([])
         for one_layer in rolled_data:
-            unrolled_array = np.concatenate((unrolled_array, one_layer.flatten(1)) )
+            unrolled_array = np.concatenate((unrolled_array, one_layer.flatten("F")) )
         return unrolled_array
 
     def roll_weights(self, unrolled_data):
